@@ -4,7 +4,7 @@ Waybar config to make Windows 10 refugees feel at home. Works well with [Hyprlan
 ![2024-07-21T15:52:00,421480788+07:00](https://github.com/user-attachments/assets/60a498d3-6989-48e9-b74d-d07242fee288)
 
 ### Installation
-0. Install waybar and swaync.
+0. Install waybar, [rofi wayland fork](https://github.com/A417ya/rofi-wayland) and swaync.
 1. copy `waybar` and `swaync` directory into your `~/.config`
 2. add *exec-once = swaync* to your hyprland.conf file.
 
