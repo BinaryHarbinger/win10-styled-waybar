@@ -58,6 +58,13 @@ tooltip label{
 	color: @content_main;
 }
 
+#custom-swaync {	font-family: "JetBrainsMono Nerd Font";
+	font-size: 20px;
+	  padding-left: 12px;
+	  padding-right: 20px;
+	  transition: all 0.25s cubic-bezier(0.165, 0.84, 0.44, 1);
+  }
+
 #workspaces {
   color: transparent;
 	margin-right: 1.5px;
