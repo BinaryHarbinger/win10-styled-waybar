@@ -27,7 +27,8 @@
     "hyprland/language": {
         "format": "{}",
         "format-en": "ENG",
-        "format-ru": "РУС"
+        "format-ru": "РУС",
+        "format-tr": "TR"
     },
     "hyprland/workspaces": {
         "icon-size": 32,
